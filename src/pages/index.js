@@ -186,7 +186,7 @@ export default function Home() {
                   fontWeight={"700"}
                 >
                   <a
-                    href="https://github.com/Justmalhar/open-audio"
+                    href="https://github.com/mrThomasTeller/fork-open-audio"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ color: "gray.100" }}
